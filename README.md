@@ -15,19 +15,12 @@
 
 Процесс разработки захватывает меня, т.к. мне нравится создавать удобные приложения с чистым и понятным кодом.
 
-Очень хочу работать в опытной амбициозной комманде, готовой вместе достигать новых целей и делиться друг с другом интересным и важным опытом.
 
 ## Мои цели:
-- Научиться писать чистый понятный код;
-- Научиться интуитивно понимать Java Script;
+- Научиться писать чистый понятный код и интуитивно понимать Java Script;
 - Работать в сплоченной команде разработчиков;
 - Участвовать в интересных проектах;
 - Внести свой вклад в успех компании.
-
-  
-## Cвязь со мной: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kate-iurkova/), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vexer), [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:chertaika@gmail.com)
   
 ---
 
