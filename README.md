@@ -25,12 +25,12 @@
 ---
 
 ### 🛠 Языки и Технологии:
-[![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)](https://git-scm.com/)
-[![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)](https://html5book.ru/html-html5/)
-[![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
-[![JavaScript](https://user-images.githubusercontent.com/86494748/148681759-aea31033-3b1c-4687-a0e7-e5faeb06bf50.png)](https://262.ecma-international.org/)
-[![Webpack](https://user-images.githubusercontent.com/86494748/148681761-05344a41-60b5-4018-a977-90b31df5fcdc.png)](https://webpack.js.org/)
-[![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)](https://nodejs.org/en/)
+<a href="https://git-scm.com/"><img src="./logos/git-icon.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://html5book.ru/html-html5/"><img src="./logos/html.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://html5book.ru/css-css3/"><img src="./logos/css.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://262.ecma-international.org/"><img src="./logos/logo-javascript.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://webpack.js.org/"><img src="./logos/webpack-icon.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://ru.bem.info/"><img src="./logos/bem.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
 
 ---
 
