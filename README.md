@@ -25,12 +25,13 @@
 ---
 
 ### 🛠 Языки и Технологии:
-<a href="https://git-scm.com/"><img src="./logos/git-icon.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
-<a href="https://html5book.ru/html-html5/"><img src="./logos/html.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
-<a href="https://html5book.ru/css-css3/"><img src="./logos/css.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
-<a href="https://262.ecma-international.org/"><img src="./logos/logo-javascript.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
-<a href="https://webpack.js.org/"><img src="./logos/webpack-icon.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
-<a href="https://ru.bem.info/"><img src="./logos/bem.svg" alt="LinkedIn Badge" width="50px" height="50px"></a>
+<a href="https://git-scm.com/"><img src="./logos/git-icon.svg" alt="Git Badge" width="50px" height="50px"></a>
+<a href="https://html5book.ru/html-html5/"><img src="./logos/html.svg" alt="HTML5 Badge" width="50px" height="50px"></a>
+<a href="https://html5book.ru/css-css3/"><img src="./logos/css.svg" alt="CSS3 Badge" width="50px" height="50px"></a>
+<a href="https://262.ecma-international.org/"><img src="./logos/logo-javascript.svg" alt="JavaScript Badge" width="50px" height="50px"></a>
+<a href="https://webpack.js.org/"><img src="./logos/webpack-icon.svg" alt="Webpack Badge" width="50px" height="50px"></a>
+<a href="https://ru.bem.info/"><img src="./logos/bem.svg" alt="BEM Badge" width="50px" height="50px"></a>
+<a href="https://react.dev/"><img src="./logos/react.svg" alt="React Badge" width="50px" height="50px"></a>
 
 ---
 
