@@ -32,6 +32,7 @@
 <a href="https://webpack.js.org/"><img src="./logos/webpack-icon.svg" alt="Webpack Badge" width="50px" height="50px"></a>
 <a href="https://ru.bem.info/"><img src="./logos/bem.svg" alt="BEM Badge" width="50px" height="50px"></a>
 <a href="https://react.dev/"><img src="./logos/react.svg" alt="React Badge" width="50px" height="50px"></a>
+<a href="https://www.typescriptlang.org/"><img src="./logos/ts.svg" alt="TypeScript Badge" width="50px" height="50px"></a>
 
 ---
 
