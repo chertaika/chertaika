@@ -24,6 +24,12 @@
   
 ---
 
+## Мои работы:
+- <a href="https://ekipirovka70.ru/">Сайт для сети розничных магазинов "Центр профессиональной экипировки" (дизайн + frontend)</a>
+- <a href="https://sz70.ru/">Сайт интернет-магазина "Спецзащита" (дизайн + frontend)</a>
+
+---
+
 ### 🛠 Языки и Технологии:
 <a href="https://git-scm.com/"><img src="./logos/git-icon.svg" alt="Git Badge" width="50px" height="50px"></a>
 <a href="https://html5book.ru/html-html5/"><img src="./logos/html.svg" alt="HTML5 Badge" width="50px" height="50px"></a>
