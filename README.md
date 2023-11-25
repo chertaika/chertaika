@@ -25,8 +25,8 @@
 ---
 
 ## Мои работы:
-- <a href="https://ekipirovka70.ru/">Сайт для сети розничных магазинов "Центр профессиональной экипировки" (дизайн + frontend)</a>
-- <a href="https://sz70.ru/">Сайт интернет-магазина "Спецзащита" (дизайн + frontend)</a>
+- [Сайт для сети розничных магазинов "Центр профессиональной экипировки" (дизайн + frontend)](https://ekipirovka70.ru/)
+- [Сайт интернет-магазина "Спецзащита" (дизайн + frontend)](https://sz70.ru/)
 
 ---
 
@@ -43,5 +43,7 @@
 ---
 
 ### 🔥 Моя статистика:
+[![codewars](https://www.codewars.com/users/chertaika/badges/large)](https://www.codewars.com/users/chertaika)
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chertaika&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chertaika&layout=compact" height="140px"/>
 
