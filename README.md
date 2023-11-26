@@ -47,4 +47,3 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chertaika&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chertaika&layout=compact" height="140px"/>
 
-![](https://komarev.com/ghpvc/?username=chertaika)
